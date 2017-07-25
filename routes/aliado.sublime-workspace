@@ -1,0 +1,1017 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"que",
+				"$query〔variable〕"
+			],
+			[
+				"proe",
+				"$promedio〔variable〕"
+			],
+			[
+				"comment",
+				"$comments〔variable〕"
+			],
+			[
+				"imag",
+				"image3"
+			],
+			[
+				"user",
+				"$user〔variable〕"
+			],
+			[
+				"ins",
+				"insurances"
+			],
+			[
+				"tex",
+				"text-left \tFoundation 3 Class"
+			],
+			[
+				"reques",
+				"$request〔variable〕"
+			],
+			[
+				"time",
+				"timestamps"
+			],
+			[
+				"be",
+				"belongsTo〔function〕"
+			],
+			[
+				"CONTACTO",
+				"CONTACTO_COMPRO"
+			],
+			[
+				"ng2",
+				"ng2-component\tAngular 2 Component Snippet"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"margen",
+				"margen-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"col-md",
+				"col-md-6 \tBootstrap 3 Class"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"buyer",
+				"buyer_id"
+			],
+			[
+				"quer",
+				"$queryString〔variable〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"sor",
+				"sortData"
+			],
+			[
+				"transfo",
+				"transformer"
+			],
+			[
+				"USUAR",
+				"USUARIO_VERIFICADO〔constant〕"
+			],
+			[
+				"transa",
+				"$transaction〔variable〕"
+			],
+			[
+				"show",
+				"showOne〔function〕"
+			],
+			[
+				"transac",
+				"transaction"
+			],
+			[
+				"categor",
+				"$category〔variable〕"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"prod",
+				"$product〔variable〕"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"seller",
+				"seller_id"
+			],
+			[
+				"sho",
+				"showOne〔function〕"
+			],
+			[
+				"selle",
+				"$seller〔variable〕"
+			],
+			[
+				"ecx",
+				"$exception〔variable〕"
+			],
+			[
+				"err",
+				"errorResponse"
+			],
+			[
+				"class",
+				"class_basename〔function〕"
+			],
+			[
+				"Valid",
+				"ValidationException"
+			],
+			[
+				"errors",
+				"$errors〔variable〕"
+			],
+			[
+				"error",
+				"errorResponse〔function〕"
+			],
+			[
+				"usuar",
+				"usuarios"
+			],
+			[
+				"colle",
+				"$collection〔variable〕"
+			],
+			[
+				"admin",
+				"admin"
+			],
+			[
+				"U",
+				"USUARIO_NO_VERIFICADO〔constant〕"
+			],
+			[
+				"cantidad",
+				"$cantidadProductos〔variable〕"
+			],
+			[
+				"cantida",
+				"cantidadUsuarios"
+			],
+			[
+				"PROD",
+				"PRODUCTO_NO_DISPONIBLE〔constant〕"
+			],
+			[
+				"Usuar",
+				"USUARIO_VERIFICADO〔constant〕"
+			],
+			[
+				"has",
+				"hasMany〔function〕"
+			],
+			[
+				"belo",
+				"belongsTo〔function〕"
+			],
+			[
+				"verifi",
+				"verification_token"
+			],
+			[
+				"ge",
+				"getId\tmethod"
+			],
+			[
+				"ng",
+				"ngFor\tAngular 2 ngFor Snippet"
+			],
+			[
+				"get",
+				"getAseguradoras\tmethod"
+			],
+			[
+				"bol",
+				"boolean\tkeyword"
+			],
+			[
+				"cons",
+				"console\tvar"
+			],
+			[
+				"H",
+				"Http\talias"
+			],
+			[
+				"cente",
+				"align-content-center \tBootstrap 4 Class"
+			],
+			[
+				"jus",
+				"justify-content-xl-center \tBootstrap 4 Class"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"Rou",
+				"RouterModule\talias"
+			],
+			[
+				"string",
+				"string\tkeyword"
+			],
+			[
+				"Router",
+				"Router\talias"
+			],
+			[
+				"Her",
+				"HeroesService\talias"
+			],
+			[
+				"btn",
+				"btn-block \tBootstrap 3 Class"
+			],
+			[
+				"btn-outli",
+				"btn-outline-primary \tBootstrap 4 Class"
+			],
+			[
+				"const",
+				"const\tkeyword"
+			],
+			[
+				"s",
+				"statuscontacto\tproperty"
+			],
+			[
+				"pos",
+				"postAgenteCredit\tmethod"
+			],
+			[
+				"a",
+				"_adrxjsService\tproperty"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"col-",
+				"col-md-4 \tBootstrap 3 Class"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"col-m",
+				"col-md-6 \tBootstrap 3 Class"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"col-sm",
+				"col-sm-12 \tBootstrap 3 Class"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"cen",
+				"text-center \tFoundation 3 Class"
+			],
+			[
+				"Shell",
+				"ShellNoRender\talias"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"text-le",
+				"text-left \tFoundation 3 Class"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"nf",
+				"ngIf\tAngular 2 ngIf Snippet"
+			],
+			[
+				"Genera",
+				"GenerateDatePipe\talias"
+			],
+			[
+				"st",
+				"str\tproperty"
+			],
+			[
+				"_",
+				"_generalService\tproperty"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"justi",
+				"text-justify \tFoundation 3 Class"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"page",
+				"pages\tproperty"
+			],
+			[
+				"con",
+				"contenedor\tproperty"
+			],
+			[
+				"chec",
+				"checkbox"
+			],
+			[
+				"disa",
+				"alert-dismissable \tBootstrap 3 Class"
+			],
+			[
+				"agen",
+				"agentesl\tproperty"
+			],
+			[
+				"i",
+				"info\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"nav",
+				"nav \tBootstrap 3 Class"
+			],
+			[
+				"margi-",
+				"margin-bottom"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"mediu",
+				"medium-4 \tFoundation 3 Class"
+			],
+			[
+				"large",
+				"large-8 \tFoundation 3 Class"
+			],
+			[
+				"col-lg",
+				"col-lg-11 \tBootstrap 3 Class"
+			],
+			[
+				"center",
+				"float-center \tFoundation 3 Class"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"small-c",
+				"small-centered \tFoundation 3 Class"
+			],
+			[
+				"Ima",
+				"ImageCropperComponent\talias"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/wamp64/www/aliadoDevLaravel/angular/src/app/+adrxjs/component/navbar.component.ts",
+			"settings":
+			{
+				"buffer_size": 499,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 368.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/aliadoDevLaravel/angular",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/component"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/component/register.poliza.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+landing/view/landing-agentes.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+landing/component/landing.user.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+landing/component/landing.agente.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/view/register.poliza.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/component/seguro.list.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/view/seguro.list.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/component/prospectos.agentes.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/view/prospectos.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/component/prospectos.atencion.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/node_modules/codelyzer/noUnusedCssRule.js",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/component/agente.edit.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/view/agente.edit.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/component/detalle.cliente.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/view/detalle.cliente.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/component/detalle.prospecto.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/view/detalle.prospecto.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/component/agente.complete.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/component/comment.dashboard.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/view/comment-dashboard.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/component/dashboard.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/view/dashboard.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/css/dashboard.css",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/view/complete.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+info/view/contacto.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/components/agente.detail.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+register/view/register.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+login/component/login.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+landing/component/buscar.seguro.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+landing/view/buscar.seguro.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+info/component/contacto.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+login/component/forgot.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+register/component/register.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+info/component/quienes.somos.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+login/view/forgot.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+login/view/login.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+landing/view/landing-usuarios.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+info/component/terminos.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+info/view/quienes-somos.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+info/view/terminos.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/components/contact.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/view/agente.detail.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/view/search.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/components/search.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/components/create.comments.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/view/aseguradoras-list.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/view/comment-list.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/components/comment.list.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/components/list.aseguradoras.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/view/create-comments.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/view/layout.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/components/default.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/view/default.html",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/app.component.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+register/register.module.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+login/login.module.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+login/login.routing.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+register/register.routing.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/services/general.service.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/app.routing.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+adrxjs/adrxjs.module.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/app.module.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/dashboard.module.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+info/info.routing.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+info/info.module.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+landing/landing.routing.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+landing/landing.module.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+dashboard/dashboard.routing.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/+adrxjs/adrxjs.routing.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/app.component.js.map",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/app/services/login.service.ts",
+		"/C/wamp64/www/aliadoDevLaravel/angular/src/index.html",
+		"/C/wamp64/www/aliadoLaravel/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+		"/C/wamp64/www/aliadoLaravel/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+		"/C/wamp64/www/aliadoLaravel/storage/oauth-public.key",
+		"/C/wamp64/www/aliadoLaravel/storage/oauth-private.key",
+		"/C/wamp64/www/aliadoLaravel/app/Traits/ApiResponser.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/ApiController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/Aseguradora/AseguradoraController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Providers/AuthServiceProvider.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/Aseguradora/AseguradoraUserController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/Buyer/BuyerContactController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/Buyer/BuyerController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/Buyer/BuyerInsuranceController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/Category/CategoryController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/Comment/CommentController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/Contact/ContactController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/History/HistoryController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/Insurance/InsuranceController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/Message/MessageController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/User/UserAseguradoraController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/User/UserBuyerInsuranceController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/User/UserCategoryController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/User/UserCommentController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/User/UserContactController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/User/UserController.php",
+		"/C/wamp64/www/aliadoLaravel/app/User.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/User/UserHistoryController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/User/UserInsuranceController.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Controllers/Category/CategoryUserController.php",
+		"/C/wamp64/www/aliadoLaravel/routes/api.php",
+		"/C/wamp64/www/aliadoLaravel/config/auth.php",
+		"/C/wamp64/www/aliadoLaravel/app/Providers/AppServiceProvider.php",
+		"/C/wamp64/www/aliadoLaravel/config/app.php",
+		"/C/wamp64/www/aliadoLaravel/resources/views/layouts/app.blade.php",
+		"/C/wamp64/www/aliadoLaravel/resources/views/welcome.blade.php",
+		"/C/wamp64/www/aliadoLaravel/resources/views/home.blade.php",
+		"/C/wamp64/www/aliadoLaravel/app/Exceptions/Handler.php",
+		"/C/wamp64/www/aliadoLaravel/routes/web.php",
+		"/C/wamp64/www/aliadoLaravel/app/Providers/RouteServiceProvider.php",
+		"/C/wamp64/www/aliadoLaravel/.env",
+		"/C/wamp64/www/aliadoLaravel/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+		"/C/wamp64/www/aliadoLaravel/database/factories/ModelFactory.php",
+		"/C/wamp64/www/aliadoLaravel/database/seeds/DatabaseSeeder.php",
+		"/C/wamp64/www/aliadoLaravel/storage/logs/laravel.log",
+		"/C/wamp64/www/aliadoLaravel/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp64/www/aliadoLaravel/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Middleware/CustomThrottleRequests.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Kernel.php",
+		"/C/wamp64/www/aliadoLaravel/app/Http/Middleware/signatureMiddleware.php",
+		"/C/wamp64/www/aliadoLaravel/resources/views/emails/welcome.blade.php",
+		"/C/wamp64/www/aliadoLaravel/app/Mail/Prueba.php",
+		"/C/wamp64/www/aliadoLaravel/resources/views/emails/prueba.blade.php",
+		"/C/wamp64/www/aliadoLaravel/config/mail.php",
+		"/C/wamp64/www/aliadoLaravel/app/Mail/UserCreated.php",
+		"/C/wamp64/www/aliadoLaravel/config/services.php",
+		"/C/wamp64/www/aliadoLaravel/app/Comment.php",
+		"/C/wamp64/www/aliadoLaravel/vendor/composer/autoload_static.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 130.0,
+		"where_history":
+		[
+			"<open files>,<open folders>",
+			"<project>,<current file>,<open files>,<open folders>",
+			"<project>,<current file>,<open files>,<open folders>,-*.doc,*.txt"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"email",
+			"address",
+			"NULL",
+			"null",
+			"image1",
+			"hasFile",
+			"image1",
+			"has",
+			"image1",
+			"image2",
+			"2017_07_04_224437_create_users_images_table",
+			"siteW",
+			"seller",
+			"categories",
+			"category",
+			"categories",
+			"aseguradoras",
+			"typeInsurance",
+			",\n",
+			"telEmergency",
+			"typeInsurance",
+			"quantity",
+			"category",
+			"product",
+			"histories",
+			">\n",
+			"h1",
+			"typeInsurance",
+			"name",
+			"category",
+			"comment",
+			"name",
+			"category",
+			"aseguradora",
+			"phone",
+			"name",
+			"aseguradora",
+			"user",
+			"name",
+			"razonSocial",
+			"services",
+			"name",
+			"required",
+			"aseguradora",
+			"Aseguradora",
+			"aseguradora",
+			"adrxjs",
+			"user",
+			"usuario",
+			"default",
+			"fillable",
+			"default",
+			"null",
+			"Messages",
+			"insurance",
+			"Insurance",
+			"insurance",
+			"Insurance",
+			"history",
+			"contact",
+			"categorias",
+			"categoria",
+			"categorias",
+			"categoria",
+			"delete",
+			"numberBetween",
+			" numberBetween",
+			"category_id",
+			"word",
+			"User",
+			"faker->word",
+			"string",
+			"User",
+			"apirestful",
+			"let",
+			"pendientes",
+			"Pendientes",
+			"pendientes",
+			"Pendientes",
+			"h2",
+			"fondo",
+			".btn-primary:hover",
+			".btn-primary",
+			"h3",
+			".carousel-caption",
+			".carousel-indicators .active",
+			"drop",
+			"cursor",
+			"pointer",
+			"top",
+			"fondo",
+			"contenedor",
+			"</h6>",
+			".navbar",
+			"footer",
+			"NAV",
+			"LEER",
+			"12",
+			"h2",
+			"div",
+			"src",
+			"div",
+			"a class",
+			"href",
+			"div",
+			"product",
+			"products",
+			"category",
+			"categories",
+			"products",
+			"buyers",
+			"collection",
+			"transaction",
+			"category",
+			"seller",
+			"buyer",
+			"user",
+			"int",
+			"@",
+			"----",
+			"categories",
+			"sellers",
+			"usuario",
+			"categories",
+			"pluck()",
+			"pluck",
+			"Buyer",
+			"buyer"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/wamp64/www/aliadoDevLaravel/angular/src/app/+adrxjs/component/navbar.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								499,
+								499
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 28.0
+	},
+	"pinned_build_system": "",
+	"project": "aliado.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"app\\Http\\Middleware\\SignatureMiddleware.php"
+			],
+			[
+				"formtyping",
+				"node_modules\\@angular\\platform-browser-dynamic\\testing\\private_export_testing.js"
+			],
+			[
+				"input",
+				"node_modules\\selenium-webdriver\\lib\\input.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 321.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
