@@ -232,4 +232,11 @@ class UserController extends ApiController
 
        return $user;
     }
+
+    public function agentes()
+    {
+       $usuarios = User::where('activation', 0)->get();
+
+        return $this->showAll($usuarios);
+    }
 }

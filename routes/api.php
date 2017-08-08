@@ -22,7 +22,8 @@ Route::resource('users.contacts', 'User\UserContactController', ['only' => ['ind
 Route::resource('users.insurances', 'User\UserInsuranceController', ['only' => ['index']]);
 Route::resource('users.buyers.insurances', 'User\UserBuyerInsuranceController', ['only' => ['store']]);
 Route::name('verify')->get('users/verify/{token}', 'User\UserController@verify');
-Route::get('/me', 'User\UserController@aboutMe'); 
+Route::get('/me', 'User\UserController@aboutMe');
+Route::get('/agentes', 'User\UserController@agentes'); 
 
 
 /*Adrxjs*/
