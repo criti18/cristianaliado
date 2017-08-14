@@ -21,6 +21,10 @@ class User extends Authenticatable
     const USUARIO_ACTIVADO = '1';
     const USUARIO_NO_ACTIVADO = '0';
 
+    const USUARIO_AGENTE = '1';
+    const USUARIO_BUYER = '0';
+    const USUARIO_AD = '2';
+
     /**
      * The attributes that are mass assignable.
      *
@@ -57,7 +61,8 @@ class User extends Authenticatable
         'agenteTipo',
         'especial1',
         'especial2',
-        'especial3'
+        'especial3',
+        'type'
     ];
 
     /**

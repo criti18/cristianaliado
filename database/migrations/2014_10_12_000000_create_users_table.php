@@ -51,6 +51,10 @@ class CreateUsersTable extends Migration
             $table->timestamps();
             $table->softDeletes();
         });
+
+        Schema::table('users', function (Blueprint $table) {
+            $table->integer('type')->default(User::USUARIO_AGENTE);
+        });
     }
 
     /**
